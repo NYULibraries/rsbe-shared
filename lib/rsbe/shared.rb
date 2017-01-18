@@ -1,0 +1,1 @@
+require 'rsbe/shared/version'
